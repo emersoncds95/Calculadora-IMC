@@ -1,0 +1,49 @@
+.corpo{
+    background-color: #262b2a;
+}
+.container{
+    background-color:  #262b2a;
+    height: 100vh;
+    color: white;
+}
+.topo{
+    padding-top: 50px;
+    text-align: center;
+}
+
+.topo h4{
+    text-transform: uppercase;
+}
+
+.sobre-imc{
+    margin-top: 80px;
+    text-align: left;
+}
+
+.texto-imc{
+    font-size: 20px;
+}
+
+.foto-imc{
+    height: 100%;
+}
+.col-12, col-sm-6{
+    
+}
+.btn,btn-primary{
+    margin-top: 20px;
+}
+#resultado{
+    border-radius: 5px;
+    display: flex;
+    justify-content: space-between;
+    color: rgb(255, 196, 1);
+    margin-top: 20px;
+    background-color: rgb(57, 57, 59);
+    height: 150px;
+    width: 100%;
+    margin-bottom: 50px;
+}
+.foto-teste{
+    height: 100px;
+}
