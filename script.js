@@ -30,7 +30,9 @@ function imc(){
         }
 
         
-        resultado.textContent = `Olá ${nome}, seu IMC é ${valorIMC} E você está ${classificacao}`
+        resultado.textContent = `
+            Olá ${nome},
+            seu IMC é ${valorIMC} e você está ${classificacao}`
 
 
     }else{
